@@ -1,0 +1,25 @@
+body {
+	background-color: coral;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;	
+}
+
+.imageAndCappytion {
+	text-align: center;
+	font-weight: bold;
+}
+
+#cappyStare {
+	height: 200px;
+}
+
+#tableauData {
+	color: darkblue;
+}
+
+#tableauGraph {
+	height: 500px;
+}
+
+#topHeader {
+	text-align: center;
+}
