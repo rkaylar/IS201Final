@@ -1,9 +1,9 @@
 body {
-	background-color: coral;
+	background-color: lightblue;
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;	
 }
 
-.imageAndCappytion {
+.imageAndplane {
 	text-align: center;
 	font-weight: bold;
 }
@@ -13,7 +13,7 @@ body {
 }
 
 #tableauData {
-	color: darkblue;
+	color: darkgreen;
 	text-align: center;
 }
 
